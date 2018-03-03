@@ -1,0 +1,46 @@
+{
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": true,
+    "editor.scrollBeyondLastLine": false,
+    "editor.minimap.enabled": false,
+    "editor.rulers": [
+        80, 90, 100
+    ],
+    
+    "extensions.ignoreRecommendations": false,
+    
+    // "git.enabled": false,
+
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    
+    "window.menuBarVisibility": "toggle",
+    "window.zoomLevel": -1,
+
+    "workbench.activityBar.visible": false,
+    
+    "zenMode.fullScreen": true,
+    "zenMode.hideActivityBar": true,
+    "zenMode.hideTabs": true,
+    "zenMode.hideStatusBar": false,
+
+    "[vue]": {
+        "editor.tabSize": 2
+	},
+
+    "[javascript]": {
+        "editor.tabSize": 2
+    },
+
+    "[java]": {
+        "editor.tabSize": 4
+    },
+    "[python]": {
+        "editor.tabSize": 4
+    },
+    "python.disablePromptForFeatures": [
+        "pylint"
+    ],
+
+    "jest.enableCodeLens": true
+}
